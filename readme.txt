@@ -17,8 +17,7 @@
 
 3. What online resources did you consult when completing this assignment? (list specific URLs)
 Some specific URLs we consulted were https://stackoverflow.com/questions/49671139/change-img-src-dynamically
-https://stackoverflow.com/questions/49671139/change-img-src-dynamically and https://stackoverflow.com/questions/44019736/bootstrap-progress-bar-with-angular-4
-https://stackoverflow.com/questions/44019736/bootstrap-progress-bar-with-angular-4. These resources were consulted when we were stumped on a concept, such as how to use angular to bind pictures to html img.
+and https://stackoverflow.com/questions/44019736/bootstrap-progress-bar-with-angular-4. These resources were consulted when we were stumped on a concept, such as how to use angular to bind pictures to html img.
 
 4. What classmates or other individuals did you consult as part of this assignment? What did you discuss?
 Gina Tambunan. We discussed pretty much the entire project from part 1 to part 5. We discussed how to implement important functions, implement components, and  how to bind everything to the html pages. Our topics ranged from Angular to TypeScript/JavaScript.
