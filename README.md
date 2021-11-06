@@ -1,4 +1,4 @@
-![](spotifyGif.gif)
+![](spotifybrowsergif.gif)
 
 Angular, TypeScript, HTML
 
