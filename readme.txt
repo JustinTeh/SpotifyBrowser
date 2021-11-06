@@ -2,7 +2,7 @@
 
 1. How many assignment points do you believe you completed (replace the *'s with your numbers)?
 
-*/10
+10/10
 - 1/1 Communicating with the webserver
 - 1/1 Populating information about the user
 - 3/3 Populating the search component
@@ -22,11 +22,4 @@ https://stackoverflow.com/questions/44019736/bootstrap-progress-bar-with-angular
 
 4. What classmates or other individuals did you consult as part of this assignment? What did you discuss?
 Gina Tambunan. We discussed pretty much the entire project from part 1 to part 5. We discussed how to implement important functions, implement components, and  how to bind everything to the html pages. Our topics ranged from Angular to TypeScript/JavaScript.
-
-
-5. Did you add a bonus feature to your submission? If so, what is it and how should we see it?
-
-
-
-6. Is there anything special we need to know in order to run your code?
 
